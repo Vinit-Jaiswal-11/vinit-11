@@ -1,4 +1,4 @@
-CREATE OR REPLACE PROCEDURE add_member(
+CREATE PROCEDURE add_member(
     p_name VARCHAR,
     p_age INT,
     p_email VARCHAR
